@@ -1,0 +1,1 @@
+heroku deploy:war --war target/<name-of-war>.war --app <app-name>
